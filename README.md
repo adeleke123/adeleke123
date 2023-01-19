@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 -->
+<img align="center" alt="coding" width="400" src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1">
+
 <a href=#><img src="display.svg"></a>
 
 <p align="center"> 
